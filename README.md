@@ -1,6 +1,4 @@
-# Breast_cancer_prediction
-
-**Analyzing and Predicting Whether A cell is Benign or Malignant**
+## Analyzing and Predicting Whether A cell is Benign or Malignant
 
 
 According to Center for Disease Control and Prevention, cancer is the second leading cause of death "exceeded only by heart disease" in the United States. In 2017, over 250,520 new cases of female breast cancer were reported in the United States, and 42,000 women died of this cancer.
